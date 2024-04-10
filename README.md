@@ -1,5 +1,6 @@
 # DURED-Net
 
-This is official code for DURED-Net: Unsupervised Deep Unrolled Reconstruction Using Regularization by Denoising 
+This is the official code for DURED-Net: Unsupervised Deep Unrolled Reconstruction Using Regularization by Denoising 
 
-Link: https://arxiv.org/abs/2205.03519
+Link: https://ieeexplore.ieee.org/abstract/document/10318101
+
